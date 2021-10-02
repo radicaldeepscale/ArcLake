@@ -1,4 +1,4 @@
 # ArcLake
 Cotharticren Systems Meadow
 
-![Cotharticren](relative/path/to/ArcLakeAir.png?raw=true "Cotharticren Arc Lake")
+![Cotharticren](https://github.com/radicaldeepscale/ArcLake/blob/main/ArcLakeAir.png?raw=true "Cotharticren Arc Lake")
